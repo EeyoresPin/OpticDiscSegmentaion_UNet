@@ -1,0 +1,12 @@
+python -m pip install paddlepaddle-gpu==3.0.0 -i https://www.paddlepaddle.org.cn/packages/stable/cu118/
+
+
+#To get source code
+git clone https://github.com/PaddlePaddle/PaddleSeg
+cd PaddleSeg
+pip install -r requirements.txt
+pip install -v -e .
+
+
+#For already compiled code
+pip install paddleseg
