@@ -1,0 +1,13 @@
+Binary Mask Class Distribution Analysis
+==================================================
+
+Total images processed: 1328
+Average Blood Cell ratio: 0.2940
+Std dev Blood Cell ratio: 0.1124
+Min Blood Cell ratio: 0.0420
+Max Blood Cell ratio: 0.7315
+Median Blood Cell ratio: 0.2828
+
+Quartile Information:
+25th percentile: 0.2174
+75th percentile: 0.3546
