@@ -1,1 +1,13 @@
 https://github.com/Deponker/Blood-cell-segmentation-dataset/tree/main
+
+
+
+[2025/05/26 23:16:50] INFO: Start evaluating (total_samples: 266, total_iters: 266)...
+266/266 [==============================] - 51s 192ms/step - batch_cost: 0.1913 - reader cost: 0.1611
+[2025/05/26 23:17:42] INFO: [EVAL] #Images: 266 mIoU: 0.9462 Acc: 0.9765 Kappa: 0.9445 Dice: 0.9723
+[2025/05/26 23:17:42] INFO: [EVAL] Class IoU: 
+[0.9669 0.9256]
+[2025/05/26 23:17:42] INFO: [EVAL] Class Precision:
+[0.9843 0.9588]
+[2025/05/26 23:17:42] INFO: [EVAL] Class Recall:
+[0.982  0.9639]
